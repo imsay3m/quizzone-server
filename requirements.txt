@@ -1,0 +1,17 @@
+crispy-bootstrap5
+dj-database-url
+Django
+django-cors-headers
+django-crispy-forms
+django-environ
+django-filter
+djangorestframework
+EasyProcess
+entrypoint2
+Markdown
+pillow
+psycopg2-binary
+sqlparse
+typing_extensions
+wheel
+sslcommerz_lib
